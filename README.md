@@ -2,7 +2,7 @@
 [![Build Status](https://builds.gbif.org/job/hp-gulf-edna-network/badge/icon)](https://builds.gbif.org/job/hp-gulf-edna-network/lastBuild/console)
 <!-- License badge example: [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
-# GBIF Hosted Portal: gulf-edna-network
+# GBIF Hosted Portal: Gulf eDNA Network
 
 This Jekyll website, **[gulf-edna-network (Staging)](https://gulf-edna-network.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
