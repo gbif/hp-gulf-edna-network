@@ -15,6 +15,8 @@ cta:
 permalink: /
 ---
 
+Hello world, this is our first edit.
+
 Edit `/home.md` to change the text.
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
