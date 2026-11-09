@@ -7,19 +7,16 @@
 columns:
   - name: UT Marine Science Institute
     description: | # Can be Markdown and multiline as shown here. 
-  *750 Channel View Dr
-  *Port Aransas, TX 78373
-    links:
-    - text: 
-      href: https://utmsi.utexas.edu
+  750 Channel View Dr
+  Port Aransas, TX 78373 
+     
   
 
   - name: Stony Brook University
     description: | # Can be Markdown
-     *100 Nicolls Rd
-     *Stony Brook, NY 11794
-   - text: 
-      href: https://www.stonybrook.edu
+     100 Nicolls Rd
+     Stony Brook, NY 11794
+
       
   - name: Contact
     description: | # Can be Markdown
