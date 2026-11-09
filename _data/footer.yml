@@ -5,27 +5,25 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Column example
+  - name: UT Marine Science Institute
     description: | # Can be Markdown and multiline as shown here. 
-      This is an example column. You can add as many as you want.
-      Each column can have a name, an optional description and optional links.
-      You can also enable social icons for a column (e.g. for a "Contact" column).
+  *750 Channel View Dr
+  *Port Aransas, TX 78373
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
-
-  - name: Code
-    description: | # Can be Markdown
-      See `_data/footer.yml` to customize the footer.
+    - text: 
+      href: https://utmsi.utexas.edu
   
+
+  - name: Stony Brook University
+    description: | # Can be Markdown
+     *100 Nicolls Rd
+     *Stony Brook, NY 11794
+   - text: 
+      href: https://www.stonybrook.edu
+      
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+ 
     connectIcons: true # Show social icons (defined in _config.yml)
 
 
