@@ -5,6 +5,4 @@ categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
 background: /assets/images/placeholders/gensummer.png
 ---
-You’ll find this post in your `_posts` directory.
-
-Read more in the "[Getting started guide for authors](https://github.com/gbif/hosted-portals/blob/main/getting-started/for-authors.md)" to get started with your new website.
+The **Gulf eDNA Network** was awarded **10,000€** to prepare a **CO1 reference library** for metazoans inhabiting marine, estuarine, and coastal ecosystems across the **Gulf of Mexico** by 2027. This data will aid GBIF's SPLICE project in integrating eDNA data into GBIF's global biodiversity data network. 
