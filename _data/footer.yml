@@ -5,14 +5,16 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: University of Texas Marine Science Institute
+  - name: 
     description: | # Can be Markdown and multiline as shown here. 
+      University of Texas Marine Science Institute
+      
       750 Channel View Drive
       Port Aransas, TX 78373
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
+    - text: The Casey Lab
+      href: https://caseylab.weebly.com
+    - text: 
       href: http://example.com
 
   - name: Code
