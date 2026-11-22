@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: GeN
+title: Gulf eDNA Network
 description: A budding collaborative for eDNA research in the Gulf
 imageLicense: None for this image
 height: 70vh
