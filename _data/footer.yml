@@ -9,8 +9,8 @@ columns:
     description: | # Can be Markdown and multiline as shown here. 
       **University of Texas Marine Science Institute**
      
-      750 Channel View Drive,
-      Port Aransas, TX 78373
+      * 750 Channel View Drive,
+      * Port Aransas, TX 78373
   
     links:
     - text: The Casey Lab
@@ -21,14 +21,13 @@ columns:
   - name: 
     description: | # Can be Markdown
       **Stony Brook University**
-     
-      100 Nicolls Road,
-      Stony Brook, NY 11794
+      * 100 Nicolls Road,
+      * Stony Brook, NY 11794
     links:
     - text: The Kitchen Lab
       href: https://www.sheilakitchen.com
       
-  - name: Contact
+  - name: 
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
       * Street name
