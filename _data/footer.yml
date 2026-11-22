@@ -7,7 +7,7 @@
 columns:
   - name: 
     description: | # Can be Markdown and multiline as shown here. 
-      University of Texas Marine Science Institute
+      **University of Texas Marine Science Institute**
       
       750 Channel View Drive
       Port Aransas, TX 78373
@@ -17,10 +17,15 @@ columns:
     - text: 
       href: http://example.com
 
-  - name: Code
+  - name: 
     description: | # Can be Markdown
-      See `_data/footer.yml` to customize the footer.
-  
+    **Stony Brook University**
+      100 Nicolls Road
+      Stony Brook, NY 11794
+ links:
+    - text: The Kitchen Lab
+      href: https://www.sheilakitchen.com
+      
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
