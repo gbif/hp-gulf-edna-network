@@ -29,7 +29,7 @@ url: "https://gulf-edna-network.hp.gbif.org/" # the base hostname & protocol for
 # SOCIAL PROFILES that will show in the footer
 email: info@gbif.org                                      # Social icon in footer
 email: gulf.edna.network@gmail.com
-url: https://gulf-edna-network.org
+website: https://gulf-edna-network.org
 #twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 #github_username:  yourname # if you have an account you want to link to. Else comment this line out
 #bluesky_username: yourname.org                            # Social icon in footer
@@ -38,7 +38,7 @@ url: https://gulf-edna-network.org
 #flickr_username: yourname                               # Social icon in footer
 #instagram_username: yourname                              # Social icon in footer
 #mastodon_url: https://something.goes/@here                # Social icon in footer
-#linkedin_url: https://www.linkedin.com/company/yourname # Social icon in footer
+#linkedin_url: https://gulf-edna-network.org # Social icon in footer
 
 # Build settings
 theme: minima
