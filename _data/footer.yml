@@ -30,8 +30,11 @@ columns:
   - name: 
     description: | # Can be Markdown
       **Contact**
-      * gulf-edna-network.org
-      * gulf.edna.network@gmail.com
+    links:
+    - text: The Gulf eDNA Network website
+      href: https://gulf-edna-network.org/
+    - text: 
+      href: http://example.com
       
     connectIcons: true # Show social icons (defined in _config.yml)
 
