@@ -1,5 +1,5 @@
 ---
-title:  "Getting started for authors"
+title:  "GeN Awarded GBIF SPLICE Grant"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
