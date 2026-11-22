@@ -4,7 +4,7 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-columns:
+columns: 
   - name: UT Marine Science Institute
     description: | # Can be Markdown and multiline as shown here. 
   750 Channel View Dr
