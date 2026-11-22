@@ -4,7 +4,7 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-columns:
+columns: 
   - name: 
     description: | # Can be Markdown and multiline as shown here. 
       **University of Texas Marine Science Institute**
