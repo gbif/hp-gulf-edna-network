@@ -5,11 +5,10 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Column example
+  - name: University of Texas Marine Science Institute
     description: | # Can be Markdown and multiline as shown here. 
-      This is an example column. You can add as many as you want.
-      Each column can have a name, an optional description and optional links.
-      You can also enable social icons for a column (e.g. for a "Contact" column).
+      750 Channel View Drive
+      Port Aransas, TX 78373
     links:
     - text: Name of project partner 1
       href: http://example.com
