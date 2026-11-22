@@ -19,7 +19,7 @@ columns:
 
   - name: 
     description: | # Can be Markdown
-    **Stony Brook University**
+      **Stony Brook University**
       100 Nicolls Road
       Stony Brook, NY 11794
  links:
