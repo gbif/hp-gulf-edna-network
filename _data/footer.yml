@@ -29,10 +29,10 @@ columns:
       
   - name: 
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      **Contact**
+      * gulf-edna-network.org
+      * gulf.edna.network@gmail.com
+      
     connectIcons: true # Show social icons (defined in _config.yml)
 
 
