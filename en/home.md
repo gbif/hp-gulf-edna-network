@@ -1,7 +1,6 @@
 ---
 lang-ref: home
 layout: home
-image: assets/images/placeholders/templates/LOGO_WHITE.png
 title: Gulf eDNA Network
 description: A budding collaborative for eDNA research in the Gulf
 imageLicense: None for this image
