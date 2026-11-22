@@ -12,7 +12,7 @@ cta:
   - text: Datasets
     href: /dataset/search
 permalink: /
-background: /assets/images/placeholders/templates/seafoam.jpg
+background: /assets/images/placeholders/seafoam.png
 ---
 
 The Gulf eDNA Network was founded by a collaborative group of early to mid-career scientists at Texas A&M University at Galveston and the University of Texas Marine Science Institute in Port Aransas.
