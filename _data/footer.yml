@@ -11,11 +11,11 @@ columns:
      
       * 750 Channel View Drive,
       * Port Aransas, TX 78373
-  
+    image: assets/images/placeholders/UTMIS.png
     links:
     - text: The Casey Lab
       href: https://caseylab.weebly.com
-    image: assets/images/placeholders/UTMIS.png
+    
 
   - name: 
     description: | # Can be Markdown
