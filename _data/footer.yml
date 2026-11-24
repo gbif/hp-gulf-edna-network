@@ -15,8 +15,6 @@ columns:
     links:
     - text: The Casey Lab
       href: https://caseylab.weebly.com
-    - text: 
-      href: http://example.com
     image: assets/images/placeholders/UTMIS.png
 
   - name: 
@@ -27,6 +25,7 @@ columns:
     links:
     - text: The Kitchen Lab
       href: https://www.sheilakitchen.com
+    image: assets/images/placeholders/stony_brook_university_seal.png
       
   - name: 
     description: | # Can be Markdown
